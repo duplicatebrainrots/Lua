@@ -1,1 +1,1 @@
-Script de DuplicateBrainrots carregado com sucesso!
+print("Script de DuplicateBrainrots carregou!")
